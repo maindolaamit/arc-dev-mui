@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Arc Development using MUI - Udemy course
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is implementation of [Udemy course](https://expedia.udemy.com/course/implement-high-fidelity-designs-with-material-ui-and-reactjs/learn/lecture/16040514#overview) 
+In this project I am experimenting with MUI and High Fiedility Design to improve my WebDevelopment skills.
 
 ## Available Scripts
 
